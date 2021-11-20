@@ -284,7 +284,7 @@ importantly do not copy these patterns!
 
 Here is a memorable example to help you remember what the issue is about (but
 do not copy the code there). Before continuing, please be sure to read the
-online documentation of pyscopg2 to learn of to use it properly:
+online documentation of psycopg2 to learn of to use it properly:
 
 - `The problem with query parameters <http://initd.org/psycopg/docs/usage.html#the-problem-with-the-query-parameters>`_
 - `How to pass parameters with psycopg2 <http://initd.org/psycopg/docs/usage.html#passing-parameters-to-sql-queries>`_
